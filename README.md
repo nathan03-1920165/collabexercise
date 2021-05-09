@@ -14,6 +14,7 @@ Fruits
 - Banana
 - Orange
 - Grape
+- Watermelon
 - [Add more]
 
 Vegetables
@@ -21,6 +22,7 @@ Vegetables
 - Carrot
 - Cauliflower
 - Asparagus
+- Lettuce
 - [Add more]
 
 School Supplies
