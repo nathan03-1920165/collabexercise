@@ -4,22 +4,22 @@ Colors
 - Blue
 - Red
 - Green
-- [Add more]
+- Purple
 
 Fruits
 - Apple
 - Banana
 - Orange
-- [Add more]
+- Mango
 
 Vegetables
 - Broccoli
 - Carrot
 - Cauliflower
-- [Add more]
+- Peas
 
 School Supplies
 - Pencil
 - Pen
 - Paper
-- [Add more]
+- Glue
