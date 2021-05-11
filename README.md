@@ -7,7 +7,8 @@ Colors
 - Yellow
 - Pink
 - Purple
-- [Add more]
+- Orange
+- White
 
 Fruits
 - Apple
@@ -16,7 +17,8 @@ Fruits
 - Mango
 - Grape
 - Watermelon
-- [Add more]
+- Strawberry
+- Dragon Fruit
 
 Vegetables
 - Broccoli
@@ -25,7 +27,8 @@ Vegetables
 - Peas
 - Asparagus
 - Lettuce
-- [Add more]
+- Corn
+- Celery
 
 School Supplies
 - Pencil
@@ -33,4 +36,6 @@ School Supplies
 - Paper
 - Glue
 - Scissor
-- [Add more]
+- Notebook
+- Laptop
+- Calculator
