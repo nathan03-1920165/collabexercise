@@ -1,4 +1,5 @@
 # collabexercise
+Collaborating is Fun! 
 
 Colors
 - Blue
@@ -9,6 +10,7 @@ Colors
 - Purple
 - Orange
 - White
+- [add more]
 
 Fruits
 - Apple
@@ -19,6 +21,7 @@ Fruits
 - Watermelon
 - Strawberry
 - Dragon Fruit
+- [add more]
 
 Vegetables
 - Broccoli
@@ -29,6 +32,7 @@ Vegetables
 - Lettuce
 - Corn
 - Celery
+- [add more]
 
 School Supplies
 - Pencil
@@ -39,3 +43,4 @@ School Supplies
 - Notebook
 - Laptop
 - Calculator
+- [add more]
