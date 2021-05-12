@@ -1,4 +1,7 @@
 # collabexercise
+Collaborating is Fun!
+
+Julien tripped and fell into the koi pond. 
 
 Colors
 - Blue
@@ -7,7 +10,9 @@ Colors
 - Yellow
 - Pink
 - Purple
-- [Add more]
+- Orange
+- White
+- [add more]
 
 Fruits
 - Apple
@@ -15,7 +20,10 @@ Fruits
 - Orange
 - Mango
 - Grape
-- [Add more]
+- Watermelon
+- Strawberry
+- Dragon Fruit
+- [add more]
 
 Vegetables
 - Broccoli
@@ -23,23 +31,22 @@ Vegetables
 - Cauliflower
 - Peas
 - Asparagus
-- [Add more]
+- Lettuce
+- Corn
+- Celery
+- [add more]
 
 School Supplies
 - Pencil
 - Pen
 - Paper
-<<<<<<< HEAD
-- [Add more]
-
-Julien Was here :)
-- version 196
-
-
-
-
-=======
 - Glue
 - Scissor
+<<<<<<< HEAD
 - [Add more]
->>>>>>> 45201e4d59862f2e56dc825c9bc95bf0b9892986
+=======
+- Notebook
+- Laptop
+- Calculator
+- [add more]
+>>>>>>> 94a961aa9e6fb2561aaaec8b3d726d85dfea2346
